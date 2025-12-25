@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
 <h1>👋 Hi, I'm Mohamed Elkomy</h1>
 <h3>Data Analyst | Data Scientist | AI Enthusiast</h3>
 
@@ -13,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mohamedelkomy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mohamedelkomy367@gmail.com)
 
 </div>
 
