@@ -50,18 +50,3 @@
 
 ---
 
-## 🧑‍💻 Tech Stack (Structured)
-
-```python
-class MohamedElkomy:
-    def __init__(self):
-        self.role = "Data Analyst | Data Scientist"
-        self.languages = ["Python", "SQL"]
-        self.analysis_tools = ["Excel", "Power BI", "Pandas", "NumPy"]
-        self.databases = ["PostgreSQL", "SQLite"]
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Data Visualization",
-            "Business Intelligence"
-        ]
