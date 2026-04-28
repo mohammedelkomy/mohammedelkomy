@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Mohamed Elkomy</h1>
-<h3>Data Analyst | Data Scientist | AI Enthusiast</h3>
+<h3>Data Analyst | Data Engineer 
 
-📍 Egypt | 📊 Turning data into insights | 🤖 AI & ML passionate  
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedelkomy&style=flat&color=orange)
 
