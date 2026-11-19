@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Mohamed Elkomy</h1>
-<h3>Data Analyst | Data Engineer 
+<h3>Data Analyst  
 
 
 
